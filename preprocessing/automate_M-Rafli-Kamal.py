@@ -73,7 +73,7 @@ def preprocess_data(file_path):
 
 if __name__ == "__main__":
     # Lokasi file input dan output
-    input_file = "../loan_data.csv"
+    input_file = "loan_data_raw/loan_data.csv"
     output_file = "loan_data_cleaned_automated.csv"
     
     print("Mulai menjalankan automation script...")
